@@ -1,0 +1,14 @@
+J:\faculdade\trabalho oficial\01\Trabalho\Trabalho\obj\Debug\Trabalho.csprojAssemblyReference.cache
+J:\faculdade\trabalho oficial\01\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.CoreCompileInputs.cache
+J:\faculdade\trabalho oficial\01\Trabalho\Trabalho\bin\Debug\Trabalho.exe.config
+J:\faculdade\trabalho oficial\01\Trabalho\Trabalho\bin\Debug\Trabalho.exe
+J:\faculdade\trabalho oficial\01\Trabalho\Trabalho\bin\Debug\Trabalho.pdb
+J:\faculdade\trabalho oficial\01\Trabalho\Trabalho\obj\Debug\Trabalho.exe
+J:\faculdade\trabalho oficial\01\Trabalho\Trabalho\obj\Debug\Trabalho.pdb
+J:\faculdade\trabalho oficial\trabalho menu\Trabalho\Trabalho\bin\Debug\Trabalho.exe.config
+J:\faculdade\trabalho oficial\trabalho menu\Trabalho\Trabalho\bin\Debug\Trabalho.exe
+J:\faculdade\trabalho oficial\trabalho menu\Trabalho\Trabalho\bin\Debug\Trabalho.pdb
+J:\faculdade\trabalho oficial\trabalho menu\Trabalho\Trabalho\obj\Debug\Trabalho.csprojAssemblyReference.cache
+J:\faculdade\trabalho oficial\trabalho menu\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.CoreCompileInputs.cache
+J:\faculdade\trabalho oficial\trabalho menu\Trabalho\Trabalho\obj\Debug\Trabalho.exe
+J:\faculdade\trabalho oficial\trabalho menu\Trabalho\Trabalho\obj\Debug\Trabalho.pdb
